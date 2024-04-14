@@ -2,6 +2,8 @@
 
 This Python script allows you to download YouTube Shorts and TikTok videos by providing a list of video links. It utilizes the `pytube` library for downloading YouTube Shorts and the `TikTokApi` library for downloading TikTok videos.
 
+This is barebones, but it works reliably.  It does not require a TikTokApi API key as of 4/13/2024 but that may change.
+
 ## Features
 
 - Download YouTube Shorts videos by providing the video links
