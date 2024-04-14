@@ -21,7 +21,7 @@ This is barebones, but it works reliably.  It does not require a TikTokApi API k
 ## Installation
 
 1. Clone the repository or download the script file.
-
+    * NOTE - Use this to input links one by one, but if you want to enter a bulk list, use video_downloader_bulk.py
 2. Install the required libraries using pip:
 ```
 pip install pytube TikTokApi
