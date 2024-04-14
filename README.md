@@ -23,17 +23,22 @@ This Python script allows you to download YouTube Shorts and TikTok videos by pr
 1. Clone the repository or download the script file.
 
 2. Install the required libraries using pip:
-``` pip install pytube TikTokApi ```
+```
+pip install pytube TikTokApi
+```
 
 ## Usage
 
 1. Run the script using Python:
-```python video_downloader.py```
-2. Enter the YouTube Shorts and TikTok video links when prompted. Press Enter without entering a link to finish the input.
+```
+python video_downloader.py
+```
 
-3. The script will download each video and save it in the current directory with the sanitized video title as the filename.
+3. Enter the YouTube Shorts and TikTok video links when prompted. Press Enter without entering a link to finish the input.
 
-4. After all the videos are downloaded, the script will display a success message.
+4. The script will download each video and save it in the current directory with the sanitized video title as the filename.
+
+5. After all the videos are downloaded, the script will display a success message.
 
 ## Examples
 
