@@ -13,9 +13,10 @@ This Python script allows you to download YouTube Shorts and TikTok videos by pr
 
 ## Prerequisites
 
-- Python 3.x
+- Python 3.6 or above (asyncio is part of the standard library from Python 3.6 onwards)
 - `pytube` library
 - `TikTokApi` library
+- `requests` library
 
 ## Installation
 
