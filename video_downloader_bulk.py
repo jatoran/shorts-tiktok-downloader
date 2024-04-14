@@ -48,8 +48,9 @@ async def download_videos(video_links):
 if __name__ == "__main__":
     # Define the list of video links directly in the code
     video_links = [
-        "https://www.youtube.com/shorts/lJGa3rtuoKY",
-        "https://www.youtube.com/shorts/--yATwejMl0"
+        "https://www.youtube.com/shorts/abc123",
+        "https://www.tiktok.com/@username/video/123456",
+        "https://www.youtube.com/shorts/def456"
     ]
 
     asyncio.run(download_videos(video_links))
