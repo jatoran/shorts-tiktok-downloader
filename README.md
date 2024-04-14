@@ -1,6 +1,4 @@
-# shorts-tiktok-downloader
-
-## YouTube Shorts and TikTok Video Downloader
+# YouTube Shorts and TikTok Video Downloader
 
 This Python script allows you to download YouTube Shorts and TikTok videos by providing a list of video links. It utilizes the `pytube` library for downloading YouTube Shorts and the `TikTokApi` library for downloading TikTok videos.
 
